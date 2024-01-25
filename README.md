@@ -53,9 +53,8 @@ but it at least explains the reason for the required
 syntax `String[] args`.
 
 **WHAT TO DO**<br>
-Under Tools, selected Console. Under the console tab, enter<br>
-`java Main`<br><br>
-and observe the results.
-Then under console re-execute the program by entering<br>
-`java Main trace_on`
-<br><br>and again observe the results.
+Complete the program code in your repo where indicated so that running the program without trace on display the trace statement, and running with trace on will display all trace statements.
+Go to the folder in which the file main.java for this repo resides on your system.
+Type `javac main.java` to compile the file.
+Type `java main trace_on` and observe that the trace statements are correctly displaying.
+Type 'java main' and observe that the trace statements are not displayed.
