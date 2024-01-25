@@ -50,7 +50,7 @@ executed (displayed).
 
 Again, this is not something that we will make use of,
 but it at least explains the reason for the required
-syntax.
+syntax `String[] args`.
 
 **WHAT TO DO**<br>
 Under Tools, selected Console. Under the console tab, enter<br>
